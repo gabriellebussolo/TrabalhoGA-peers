@@ -9,7 +9,6 @@ Cada peer possui função de servidor e de cliente. Além disso, há um servidor
  <a href="#preparando-o-container">Preparando o container</a> • 
  <a href="#executando-o-projeto">Executando o projeto</a> • 
  <a href="#features">Features</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autora">Autora</a>
 </p>
  
