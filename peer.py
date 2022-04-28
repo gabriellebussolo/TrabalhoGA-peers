@@ -58,7 +58,7 @@ def receber():
             print('-------------------------------------------------------------------')
 
 #Thread utilizada, pois o recv é bloqueante
-tRecebe = threading.Thread(target=receber, daemon=True)
+tRecebe = threading.Thread(target=receber)
 tRecebe.start()
 
 # Envia mensagens para os peers
